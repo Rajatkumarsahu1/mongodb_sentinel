@@ -86,7 +86,7 @@ sentinel-mongodb/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Rajatkumarsahu1/mongodb_sentinel
 cd sentinel-mongodb
 ```
 
